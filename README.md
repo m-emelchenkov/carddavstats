@@ -11,6 +11,8 @@
 ## System Requirements
 OS X
 
+Beware, don't "Always Allow" access to keychain information, because it allows access to `security` console application, not the script itself.
+
 ## CardDAV URLs
 
 Server|URL
