@@ -5,11 +5,11 @@
 **CardDAVstats** is a program for calulating different statistic metrics of address books located on CardDAV servers.
 
 ## Features
-- Total emails
-- Quantitative distribution of email domains
+- Total emails.
+- Quantitative distribution of email domains.
 
 ## System Requirements
-OS X
+OS X.
 
 Beware, don't "Always Allow" access to keychain information, because it allows access to `security` console application, not the script itself.
 
